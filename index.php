@@ -1,4 +1,4 @@
 <?php
     // Display greeting message
-    echo "Hello, world!";
+    echo "Hello from Prague!";
 ?>
